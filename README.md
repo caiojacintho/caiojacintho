@@ -10,15 +10,51 @@
 </ul>
 </p>
 
+
 <p>
 <h3>Portfolio</h3>
-<ul>
-<li><em><a href="https://viz.dados.rio/#/especial-seop/cep">CEP: Your Rio, your street</a></em>, The City Hall program that has been combating violence in the city.<br /></li>
-<li><em><a href="https://viz.dados.rio/#/especial-seop/demolicoes">More than 1,300 less irregular buildings in Rio de Janeiro</a></em>, Damage to organized crime, preservation of green areas and safety for residents.<br /></li>
-<li><em><a href="https://www.dados.rio/especiais/reconstrucao-brt">BRT Rio: Construction and Reconstruction</a></em>, Check out how we keep working to deliver the dignified transport that cariocas deserve.<br /></li>
-<li><em><a href="https://www.dados.rio/especiais/carnaval-de-dados">Data Carnival</a></em>, The numbers are impressive! After all, we're not talking about just any party. But are you on top of everything that happens at Carnival?<br /></li>
-<li><em><a href="https://www.dados.rio/especiais/copa-do-mundo-carioca">Cariocas World Cup Album</a></em>, The Office prepared its own album of players from Rio who shone in every World Cup.<br /></li>
-</ul>
+  
+<h2></h2>
+<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59733514fbc04696e1995_cep-github.gif"></p>
+ 
+### <a href="https://viz.dados.rio/#/especial-seop/cep">CEP: Your Rio, your street</a>
+
+The City Hall program that has been combating violence in the city.
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a598e8d72031850121fc07_demolicoes-github.gif"></p>
+ 
+### <a href="https://viz.dados.rio/#/especial-seop/demolicoes">1,300 less irregular buildings in Rio de Janeiro</a>
+
+Damage to organized crime, preservation of green areas and safety for residents.
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a599d392841340fa45d7cb_brt-github.png"></p>
+ 
+### <a href="https://www.dados.rio/especiais/reconstrucao-brt">BRT Rio: Construction and Reconstruction</a>
+
+Check out how we keep working to deliver the dignified transport that cariocas deserve.
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59a41ee316f674857d484_carnaval-github.png"></p>
+ 
+### <a href="https://www.dados.rio/especiais/carnaval-de-dados">Data Carnival</a>
+
+The numbers are impressive! After all, we're not talking about just any party. But are you on top of everything that happens at Carnival?
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59a9af54d4600f89872f1_album-github.png"></p>
+ 
+### <a href="https://www.dados.rio/especiais/copa-do-mundo-carioca">Cariocas World Cup Album</a>
+
+The Office prepared its own album of players from Rio who shone in every World Cup.
+<br /><br /><br />
+<h2></h2>
+
 </p>
 
 <h3 align="left">Tools</h3>
