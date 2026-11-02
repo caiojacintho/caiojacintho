@@ -1,61 +1,89 @@
 <h2> Hi there, I'm Caio Jacintho! 👋 </h2>
-<br />
 
-<p>
-<h3>Experiences</h3>
+A Brazilian multiform designer working at the intersection of design, data and communication. I lead the Design team at <a href="https://www.iplan.rio/">IplanRio</a>, the technology agency of <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a>, shaping the city's digital future.
+
+🌐 <a href="https://caiojacintho.work">caiojacintho.work</a>
+
+<h3>Experience</h3>
 <ul>
-<li><em>Visual & Interaction Designer for the <a href="https://dados.rio/">Data Visualization Team</a> at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Jan 2022 - Currently).<br /></li>
-<li><em>Architect, Builder and Founder of <a href="https://www.instagram.com/oka.construtora">OKA Architecture and Construction</a></em> (Ago 2018 - Dez 2021).<br /></li>
-<li><em>Architect at <a href="https://siaa.arq.br/">SIAA Architects</a></em> (Ago 2017 - Jan 2019).<br /></li>
+<li><em>Head of Design</em> — <a href="https://www.iplan.rio/">IplanRio</a> at Rio de Janeiro City Hall (2025 – 2026)</li>
+<li><em>Product Designer</em> — <a href="https://www.dados.rio/">Data Office</a> at Rio de Janeiro City Hall (2023 – 2024)</li>
+<li><em>UI Designer</em> — <a href="https://www.dados.rio/">Data Office</a> at Rio de Janeiro City Hall (2022)</li>
+<li><em>Graphic Designer & Architect</em> — Multiple (2018 – 2021)</li>
 </ul>
-</p>
 
+<h3>Education</h3>
+<ul>
+<li>Bachelor's Degree in Architecture and Urbanism — Universidade de São Paulo (2011 – 2016)</li>
+<li>Bachelor's Degree in Architecture and Urbanism — Universidad de Sevilla (2014 – 2015)</li>
+</ul>
 
-<p>
-<h3>Portfolio</h3>
-  
+<h3>Featured work</h3>
+
 <h2></h2>
-<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59733514fbc04696e1995_cep-github.gif"></p>
- 
-### <a href="https://viz.dados.rio/#/especial-seop/cep">CEP: Your Rio, your street</a>
+<p><img width="250" align='left' src="https://caiojacintho.work/images/revolusolar-1.png"></p>
 
-The City Hall program that has been combating violence in the city.
+### <a href="https://caiojacintho.work/revolusolar.html">Revolusolar</a>
+
+A nonprofit from Rio's Morro da Babilônia fighting energy poverty through solar power, building solar communities that pair clean energy with jobs and education.
 <br /><br /><br />
 <h2></h2>
 
-<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a598e8d72031850121fc07_demolicoes-github.gif"></p>
- 
-### <a href="https://viz.dados.rio/#/especial-seop/demolicoes">1,300 less irregular buildings in Rio de Janeiro</a>
+<p><img width="250" align='left' src="https://cdn.prod.website-files.com/68a2615b8b73ca5020d09452/69271ba0fb44b9b2be0a8f69_t3.jpg"></p>
 
-Damage to organized crime, preservation of green areas and safety for residents.
+### <a href="https://caiojacintho.work/prefrio.html">Pref.Rio</a>
+
+The City of Rio de Janeiro's official portal, bringing public services, information and citizen support together in one place.
 <br /><br /><br />
 <h2></h2>
 
-<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a599d392841340fa45d7cb_brt-github.png"></p>
- 
-### <a href="https://www.dados.rio/especiais/reconstrucao-brt">BRT Rio: Construction and Reconstruction</a>
+<p><img width="250" align='left' src="https://caiojacintho.work/images/investrio-4.jpg"></p>
 
-Check out how we keep working to deliver the dignified transport that cariocas deserve.
+### <a href="https://caiojacintho.work/investrio.html">Invest Rio</a>
+
+A portal that presents Rio to investors: business opportunities, data and incentives to attract investment and economic development to the city.
 <br /><br /><br />
 <h2></h2>
 
-<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59a41ee316f674857d484_carnaval-github.png"></p>
- 
-### <a href="https://www.dados.rio/especiais/carnaval-de-dados">Data Carnival</a>
+<p><img width="250" align='left' src="https://cdn.prod.website-files.com/68a2615b8b73ca5020d09452/68ade5a3c3123ce060052a1d_2102.jpg"></p>
 
-The numbers are impressive! After all, we're not talking about just any party. But are you on top of everything that happens at Carnival?
+### <a href="https://caiojacintho.work/rivio.html">Rivio</a>
+
+A healthtech using AI to transform hospital financial management, automating the revenue cycle from auditing to billing.
 <br /><br /><br />
 <h2></h2>
 
-<p><img width="250" align='left' src="https://uploads-ssl.webflow.com/620174b23793091c57373755/64a59a9af54d4600f89872f1_album-github.png"></p>
- 
-### <a href="https://www.dados.rio/especiais/copa-do-mundo-carioca">Cariocas World Cup Album</a>
+<p><img width="250" align='left' src="https://caiojacintho.work/images/iplanrio-1.png"></p>
 
-The Office prepared its own album of players from Rio who shone in every World Cup.
+### <a href="https://caiojacintho.work/iplanrio.html">IplanRio</a>
+
+Rio de Janeiro's municipal information-technology company, responsible for the city's digital systems and services.
 <br /><br /><br />
 <h2></h2>
 
-</p>
+<p><img width="250" align='left' src="https://caiojacintho.work/images/embya-1.jpg"></p>
+
+### <a href="https://caiojacintho.work/embya.html">Embyá</a>
+
+A Brazilian landscape studio practicing ecosystem-based design, reconciling human occupation and natural processes.
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://cdn.prod.website-files.com/68a2615b8b73ca5020d09452/68b0713a15e6492a8406fdfd_r01.effectsResult_1.gif"></p>
+
+### <a href="https://caiojacintho.work/storytelling.html">Storytelling</a>
+
+Data stories and interactive specials produced with the Data Office of Rio's City Hall — turning public data into public narratives.
+<br /><br /><br />
+<h2></h2>
+
+<p><img width="250" align='left' src="https://cdn.prod.website-files.com/68a2615b8b73ca5020d09452/68b1158ac622e531ae37c4f7_multiplos.jpg"></p>
+
+### <a href="https://caiojacintho.work/dataviz.html">Data visualization</a>
+
+Charts, maps and visual essays translating complex urban data into clear stories.
+<br /><br /><br />
+<h2></h2>
 
 <h3 align="left">Tools</h3>
 <p align="left">
@@ -64,8 +92,8 @@ The Office prepared its own album of players from Rio who shone in every World C
 
 <h3 align="left">Reach me</h3>
 <p align="left">
-<a href="https://github.com/caiojacintho" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/caio-jacintho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/_craj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:caio.rodrigues.jacintho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://caiojacintho.work" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/caio-jacintho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/caio.jacintho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:caio.rodrigues.jacintho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
